@@ -131,7 +131,7 @@ input:-webkit-autofill:focus {
 }
 
 .section-padding {
-    padding: 120px 0;
+    padding: 15px 0;
 }
 
 .social-menu {
@@ -220,7 +220,7 @@ input:-webkit-autofill:focus {
 **/
 
 .page-title {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .page-title h2 {
@@ -368,11 +368,11 @@ input:-webkit-autofill:focus {
 
 .client-area,
 .header-area {
-    background: #000000 url('public/images/parallax-2.jpg') no-repeat scroll center center / cover;
+    background: #000000 url('images/parallax-2.jpg') no-repeat scroll center center / cover;
 }
 
 .anlge-bg {
-    background: url('public/images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
+    background: url('images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
 }
 
 .overlay {
@@ -399,7 +399,7 @@ input:-webkit-autofill:focus {
 }
 
 .screen-slider .item {
-    background: url('public/images/mobile2.png') no-repeat scroll center center / auto 100%;
+    background: url('images/mobile2.png') no-repeat scroll center center / auto 100%;
     padding: 56px 22px;
     display: inline-block;
     margin: auto;
@@ -598,7 +598,7 @@ input:-webkit-autofill:focus {
 ***/
 
 .testimonial-area {
-    background: url('public/images/parallax-7.jpg') no-repeat scroll center center / cover;
+    background: url('images/parallax-7.jpg') no-repeat scroll center center / cover;
     position: relative;
     color: #ffffff;
 }
@@ -642,7 +642,7 @@ input:-webkit-autofill:focus {
 ***/
 
 .price-area {
-    background: url('public/images/parallax-6.jpg') no-repeat scroll center center / cover
+    background: url('images/parallax-6.jpg') no-repeat scroll center center / cover
 }
 
 .price-table h3 {
@@ -791,7 +791,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-bg {
-    background: url('public/images/angle-bg.png') no-repeat scroll center bottom / 100% auto;
+    background: url('images/angle-bg.png') no-repeat scroll center bottom / 100% auto;
     z-index: -1;
 }
 
